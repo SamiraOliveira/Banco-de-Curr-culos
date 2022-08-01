@@ -1,0 +1,4 @@
+Fazer os modelos: conceitual, lógico e físico.
+Abrir o xampp e dar start no mysql e apache.
+Abrir o Localhost na web e importar o arquivo "modelo físico" depois executar.
+Salvar tudo no repositorio 'banco de currículos" no github.
